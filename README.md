@@ -72,14 +72,3 @@ inpainting remains an explicit opt-in for experimentation.
 ## License
 
 MIT — free to use and modify.
-
----
-title: AI Virtual Garment Ironing
-emoji: 👔
-colorFrom: teal
-colorTo: slate
-sdk: gradio
-sdk_version: "4.44.0"
-app_file: app.py
-pinned: false
----
