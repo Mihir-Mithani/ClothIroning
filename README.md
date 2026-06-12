@@ -1,8 +1,8 @@
 ---
 title: AI Virtual Garment Ironing System
 emoji: 👔
-colorFrom: teal
-colorTo: blue
+colorFrom: blue
+colorTo: indigo
 sdk: gradio
 sdk_version: 4.19.0
 app_file: app.py
@@ -14,10 +14,8 @@ tags:
   - image-segmentation
   - garment-processing
   - fashion-ai
-  - stable-diffusion
   - wrinkle-removal
 ---
-
 # 👔 AI Virtual Garment Ironing System
 
 An AI-powered application that detects, segments, and virtually irons clothing in photographs.
